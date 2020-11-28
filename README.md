@@ -1,2 +1,2 @@
 # README #
-# This is the README file it has information about this project
+# This is the README file. It has information about this project
